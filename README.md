@@ -1,1 +1,1 @@
-# metamask-sdk-geo.cx.metamask.io
+<h1>Subdomain Takeover</h1>
